@@ -54,7 +54,7 @@ h1 {
 }
 
 .quote::before {
-    content: "\0022";
+    content: "\201c";
     font-size: 280px;
     font-family: serif;
     float: left;
